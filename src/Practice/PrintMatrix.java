@@ -2,7 +2,7 @@ package Practice;
 
 /**
  * Created by nightchen on 2018/4/12.
- * 打印矩阵
+ * 顺时针打印矩阵
  */
 public class PrintMatrix {
     public static void main(String[] args){
