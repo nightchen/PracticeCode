@@ -5,10 +5,10 @@ package JianzhiOffer;
  * 二叉树节点
  */
 public class TreeNode {
-    public int value;
+    public int val;
     TreeNode left;
     TreeNode right;
     TreeNode (int x){
-        value = x;
+        val = x;
     }
 }
