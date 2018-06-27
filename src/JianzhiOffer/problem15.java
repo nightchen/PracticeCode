@@ -10,6 +10,7 @@ public class problem15 {
     //直接调用java的bitCount，方便快捷
     public static int NumberOf1one(int n) {
         return Integer.bitCount(n);
+
     }
     //转化为二进制字符串
     public static int NumberOf1two(int n) {
