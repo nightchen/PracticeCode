@@ -2,6 +2,7 @@ package JianzhiOffer;
 
 /**
  * Created by nightchen on 2018/6/27.
+ * 请实现两个函数，分别用来序列化和反序列化二叉树
  */
 public class Problem37 {
     int index = -1;
