@@ -4,7 +4,7 @@ package JianzhiOffer;
  * Created by nightchen on 2018/7/10.
  * 数组中数值和下标相等的元素
  */
-public class Problem54_3 {
+public class Problem53_3 {
     public static int getNumberAsIndex(int[] array){
         if(array.length == 0){
             return -1;

@@ -35,6 +35,6 @@ public class Problem49 {
         return number[index];
     }
     public static void main(String[] args){
-        System.out.println(GetUglyNumber_Solution(10));
+        System.out.println(GetUglyNumber_Solution(100));
     }
 }
